@@ -1,0 +1,6 @@
+M:\Simplilearn\Projects\Phase-3\Practice Projects\Section2\School\School\bin\Debug\School.dll
+M:\Simplilearn\Projects\Phase-3\Practice Projects\Section2\School\School\bin\Debug\School.pdb
+M:\Simplilearn\Projects\Phase-3\Practice Projects\Section2\School\School\obj\Debug\School.csproj.AssemblyReference.cache
+M:\Simplilearn\Projects\Phase-3\Practice Projects\Section2\School\School\obj\Debug\School.csproj.CoreCompileInputs.cache
+M:\Simplilearn\Projects\Phase-3\Practice Projects\Section2\School\School\obj\Debug\School.dll
+M:\Simplilearn\Projects\Phase-3\Practice Projects\Section2\School\School\obj\Debug\School.pdb
